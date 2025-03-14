@@ -1,0 +1,8 @@
+treamlit
+google-generativeai
+python-dotenv
+langchain
+pandas
+faiss-cpu
+langchain_google_genai
+langchain-community
